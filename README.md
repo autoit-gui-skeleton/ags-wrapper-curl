@@ -1,7 +1,7 @@
 AGS-wrapper-curl
 ================
 
-> [AutoIt Gui Skeleton](https://autoit-gui-skeleton.github.io/) package for wrapping the library [Curl.au3](https://www.autoitscript.com/forum/topic/148114-a-non-strict-json-udf-jsmn/) created by Ward. See this package on [npmjs.com](https://www.autoitscript.com/forum/topic/173067-curl-udf-autoit-binary-code-version-of-libcurl-with-ssl-support/)
+> [AutoIt Gui Skeleton](https://autoit-gui-skeleton.github.io/) package for wrapping the library [Curl.au3](https://www.autoitscript.com/forum/topic/148114-a-non-strict-json-udf-jsmn/) created by Ward. See this package on [npmjs.com](https://www.npmjs.com/package/@autoit-gui-skeleton/ags-wrapper-curl)
 
 
 
